@@ -1,0 +1,108 @@
+00:47:16 - Starting servent [4|localhost|1500]
+00:47:16 - Pausing for 500 ms
+00:47:16 - Started collecting!
+00:47:16 - Pausing for 15000 ms
+00:47:17 - recored value in servent_4 is: 1000
+00:47:17 - Sending snapshot to myself
+00:47:17 - Got message [5|58|10|TRANSACTION|4]
+00:47:17 - Handling [5|58|10|TRANSACTION|4]
+00:47:17 - Transaction handler got: [5|58|10|TRANSACTION|4]
+00:47:17 - Got message [5|9|10|TRANSACTION|4]
+00:47:17 - Handling [5|9|10|TRANSACTION|4]
+00:47:17 - Transaction handler got: [5|9|10|TRANSACTION|4]
+00:47:17 - Got message [5|7|9|TRANSACTION|4]
+00:47:17 - Handling [5|7|9|TRANSACTION|4]
+00:47:17 - Transaction handler got: [5|7|9|TRANSACTION|4]
+00:47:17 - Got message [5|29|9|TRANSACTION|4]
+00:47:17 - Handling [5|29|9|TRANSACTION|4]
+00:47:17 - Transaction handler got: [5|29|9|TRANSACTION|4]
+00:47:17 - Got message [5|8|1|TRANSACTION|4]
+00:47:17 - Handling [5|8|1|TRANSACTION|4]
+00:47:17 - Transaction handler got: [5|8|1|TRANSACTION|4]
+00:47:17 - Got message [5|19|7|TRANSACTION|4]
+00:47:17 - Handling [5|19|7|TRANSACTION|4]
+00:47:17 - Transaction handler got: [5|19|7|TRANSACTION|4]
+00:47:18 - Sending message [4|0|4|TOKEN|3]
+00:47:18 - Sending message [4|0|4|TOKEN|5]
+00:47:18 - Got message [5|5|9|TRANSACTION|4]
+00:47:18 - Handling [5|5|9|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|5|9|TRANSACTION|4]
+00:47:18 - Got message [5|42|10|TRANSACTION|4]
+00:47:18 - Handling [5|42|10|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|42|10|TRANSACTION|4]
+00:47:18 - Got message [5|50|2|TRANSACTION|4]
+00:47:18 - Handling [5|50|2|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|50|2|TRANSACTION|4]
+00:47:18 - Got message [5|31|3|TRANSACTION|4]
+00:47:18 - Handling [5|31|3|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|31|3|TRANSACTION|4]
+00:47:18 - Got message [5|33|9|TRANSACTION|4]
+00:47:18 - Handling [5|33|9|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|33|9|TRANSACTION|4]
+00:47:18 - Got message [5|44|1|TRANSACTION|4]
+00:47:18 - Handling [5|44|1|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|44|1|TRANSACTION|4]
+00:47:18 - Got message [5|32|4|TRANSACTION|4]
+00:47:18 - Handling [5|32|4|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|32|4|TRANSACTION|4]
+00:47:18 - Got message [5|20|9|TRANSACTION|4]
+00:47:18 - Handling [5|20|9|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|20|9|TRANSACTION|4]
+00:47:18 - Got message [5|60||AB_SNAPSHOT|4]
+00:47:18 - Handling [5|60||AB_SNAPSHOT|4]
+00:47:18 - AB snapshot handler got snapshot from: 5
+00:47:18 - Got message [5|43|7|TRANSACTION|4]
+00:47:18 - Handling [5|43|7|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|43|7|TRANSACTION|4]
+00:47:18 - Got message [5|18|1|TRANSACTION|4]
+00:47:18 - Handling [5|18|1|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|18|1|TRANSACTION|4]
+00:47:18 - Got message [5|6|10|TRANSACTION|4]
+00:47:18 - Handling [5|6|10|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|6|10|TRANSACTION|4]
+00:47:18 - Got message [5|52|10|TRANSACTION|4]
+00:47:18 - Handling [5|52|10|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|52|10|TRANSACTION|4]
+00:47:18 - Got message [5|54|10|TRANSACTION|4]
+00:47:18 - Handling [5|54|10|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|54|10|TRANSACTION|4]
+00:47:18 - Got message [5|30|7|TRANSACTION|4]
+00:47:18 - Handling [5|30|7|TRANSACTION|4]
+00:47:18 - Transaction handler got: [5|30|7|TRANSACTION|4]
+00:47:19 - Got message [3|0||AB_SNAPSHOT|4]
+00:47:19 - Handling [3|0||AB_SNAPSHOT|4]
+00:47:19 - AB snapshot handler got snapshot from: 3
+00:47:19 - Got message [2|80||AB_SNAPSHOT|4]
+00:47:19 - Handling [2|80||AB_SNAPSHOT|4]
+00:47:19 - AB snapshot handler got snapshot from: 2
+00:47:19 - Got message [4|0|4|TOKEN|4]
+00:47:19 - Handling [4|0|4|TOKEN|4]
+00:47:19 - Got message [4|0|4|TOKEN|4]
+00:47:19 - Handling [4|0|4|TOKEN|4]
+00:47:19 - Got 4 from [5|localhost|1600] token by [4|localhost|1500]
+00:47:19 - Got 4 from [3|localhost|1400] token by [4|localhost|1500]
+00:47:19 - Got own message back. No rebroadcast.
+00:47:19 - Got own message back. No rebroadcast.
+00:47:19 - Got message [1|80||AB_SNAPSHOT|4]
+00:47:19 - Handling [1|80||AB_SNAPSHOT|4]
+00:47:19 - AB snapshot handler got snapshot from: 1
+00:47:20 - Got message [6|80||AB_SNAPSHOT|4]
+00:47:20 - Handling [6|80||AB_SNAPSHOT|4]
+00:47:20 - AB snapshot handler got snapshot from: 6
+00:47:21 - Got message [0|60||AB_SNAPSHOT|4]
+00:47:21 - Handling [0|60||AB_SNAPSHOT|4]
+00:47:21 - AB snapshot handler got snapshot from: 0
+00:47:23 - Recorded bitcake amount for 0 = 1017
+00:47:23 - Recorded bitcake amount for 1 = 848
+00:47:23 - Recorded bitcake amount for 2 = 801
+00:47:23 - Recorded bitcake amount for 3 = 1118
+00:47:23 - Recorded bitcake amount for 4 = 1000
+00:47:23 - Recorded bitcake amount for 5 = 1041
+00:47:23 - Recorded bitcake amount for 6 = 1077
+00:47:23 - Unreceived bitcake amount: 36 from servent 6 to servent 2
+00:47:23 - Unreceived bitcake amount: 106 from servent 2 to servent 3
+00:47:23 - Unreceived bitcake amount: 51 from servent 6 to servent 3
+00:47:23 - Unreceived bitcake amount: 46 from servent 5 to servent 4
+00:47:23 - Unreceived bitcake amount: 68 from servent 6 to servent 5
+00:47:23 - System bitcake count: 6902
+00:47:31 - Stopping...
