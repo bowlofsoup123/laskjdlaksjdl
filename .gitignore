@@ -1,7 +1,0 @@
-target/
-*.iml
-*.class
-.idea/
-ab/error/*.txt
-ab/output/*.txt
-out/
